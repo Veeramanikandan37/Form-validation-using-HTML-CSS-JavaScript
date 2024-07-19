@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+form{
+    font-size: 1.2rem;
+    margin: 20px;
+    border: 1px solid black;
+    padding: 50px;
+    width: fit-content;
+    background-color:darkslategray;
+    color: whitesmoke;
+    align-items: center;
+    margin-left: 30%;
+}
+form input,textarea{
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    width: 400px;
+}
+form button{
+    margin-left: 11rem;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+     
+}
+form button:hover{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    margin-top: -1rem;
+}
+ 
